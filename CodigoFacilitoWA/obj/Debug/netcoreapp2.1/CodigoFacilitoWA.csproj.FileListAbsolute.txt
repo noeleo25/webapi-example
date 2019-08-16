@@ -1,0 +1,14 @@
+C:\Users\Noemi Leon\Documents\Cursos\Codigo Facilito\repos\CodigoFacilitoWA\CodigoFacilitoWA\bin\Debug\netcoreapp2.1\CodigoFacilitoWA.deps.json
+C:\Users\Noemi Leon\Documents\Cursos\Codigo Facilito\repos\CodigoFacilitoWA\CodigoFacilitoWA\bin\Debug\netcoreapp2.1\CodigoFacilitoWA.runtimeconfig.json
+C:\Users\Noemi Leon\Documents\Cursos\Codigo Facilito\repos\CodigoFacilitoWA\CodigoFacilitoWA\bin\Debug\netcoreapp2.1\CodigoFacilitoWA.runtimeconfig.dev.json
+C:\Users\Noemi Leon\Documents\Cursos\Codigo Facilito\repos\CodigoFacilitoWA\CodigoFacilitoWA\bin\Debug\netcoreapp2.1\CodigoFacilitoWA.dll
+C:\Users\Noemi Leon\Documents\Cursos\Codigo Facilito\repos\CodigoFacilitoWA\CodigoFacilitoWA\bin\Debug\netcoreapp2.1\CodigoFacilitoWA.pdb
+C:\Users\Noemi Leon\Documents\Cursos\Codigo Facilito\repos\CodigoFacilitoWA\CodigoFacilitoWA\obj\Debug\netcoreapp2.1\CodigoFacilitoWA.csprojAssemblyReference.cache
+C:\Users\Noemi Leon\Documents\Cursos\Codigo Facilito\repos\CodigoFacilitoWA\CodigoFacilitoWA\obj\Debug\netcoreapp2.1\CodigoFacilitoWA.csproj.CoreCompileInputs.cache
+C:\Users\Noemi Leon\Documents\Cursos\Codigo Facilito\repos\CodigoFacilitoWA\CodigoFacilitoWA\obj\Debug\netcoreapp2.1\CodigoFacilitoWA.RazorAssemblyInfo.cache
+C:\Users\Noemi Leon\Documents\Cursos\Codigo Facilito\repos\CodigoFacilitoWA\CodigoFacilitoWA\obj\Debug\netcoreapp2.1\CodigoFacilitoWA.RazorAssemblyInfo.cs
+C:\Users\Noemi Leon\Documents\Cursos\Codigo Facilito\repos\CodigoFacilitoWA\CodigoFacilitoWA\obj\Debug\netcoreapp2.1\CodigoFacilitoWA.AssemblyInfoInputs.cache
+C:\Users\Noemi Leon\Documents\Cursos\Codigo Facilito\repos\CodigoFacilitoWA\CodigoFacilitoWA\obj\Debug\netcoreapp2.1\CodigoFacilitoWA.AssemblyInfo.cs
+C:\Users\Noemi Leon\Documents\Cursos\Codigo Facilito\repos\CodigoFacilitoWA\CodigoFacilitoWA\obj\Debug\netcoreapp2.1\CodigoFacilitoWA.RazorTargetAssemblyInfo.cache
+C:\Users\Noemi Leon\Documents\Cursos\Codigo Facilito\repos\CodigoFacilitoWA\CodigoFacilitoWA\obj\Debug\netcoreapp2.1\CodigoFacilitoWA.dll
+C:\Users\Noemi Leon\Documents\Cursos\Codigo Facilito\repos\CodigoFacilitoWA\CodigoFacilitoWA\obj\Debug\netcoreapp2.1\CodigoFacilitoWA.pdb

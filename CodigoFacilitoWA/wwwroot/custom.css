@@ -1,0 +1,38 @@
+﻿body {
+}
+
+.main-content {
+    margin-top: 20px;
+}
+
+#add-btn {
+    margin-left: 12px;
+    height: 32px;
+    width: 32px;
+    max-width: 40px;
+    font-size: 15px;
+    border-radius: 50%;
+    align-content: center;
+    justify-content: center;
+}
+
+.course-add {
+    margin-top: 12px;
+}
+
+.course-add > form {
+    width: inherit;
+}
+
+.course-add input[type="text"] {
+    border-radius: 4px;
+    padding: 8px;
+}
+
+.course-list {
+    margin-top: 12px;
+}
+
+#delete-c {
+    margin-left: 8px;
+}

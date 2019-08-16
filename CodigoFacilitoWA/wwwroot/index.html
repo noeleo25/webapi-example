@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="/custom.css" />
+    <title> Web API Test </title>
+</head>
+<body>
+    <section class="main-content">
+        <div class="container">
+            <div class="head-area d-flex align-items-center">
+                <h1>Cursos</h1>
+                <button id="add-btn" class="btn btn-sm btn-primary d-flex align-items-center"
+                        type="button" data-toggle="collapse"
+                        data-target="#collapseAdd" aria-expanded="false"> + </button>
+            </div>
+
+            <div class="collapse course-add" id="collapseAdd">
+                <form action="javascript:void(0)" method="POST" onsubmit="addCourse()"
+                      class="d-flex justify-content-between align-items-center">
+                    <input type="text" id="add-course-name" placeholder="Nombre" />
+                    <input type="text" id="add-course-dur" placeholder="Duracion" />
+                    <input type="text" id="add-course-inst" placeholder="Instructor" />
+                    <fieldset>
+                        <label for="add-course-active"> Activo? </label>
+                        <input type="checkbox" id="add-course-active" checked />
+                    </fieldset>
+                    <input type="submit" class="btn btn-success" value="Agregar" />
+                </form>
+            </div>
+
+            <div class="course-list">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Id</th>
+                            <th>Nombre</th>
+                            <th>Duracion</th>
+                            <th>Instructor</th>
+                            <th>Estatus</th>
+                            <th>Acciones</th>
+                        </tr>
+                    </thead>
+                    <tbody id="courses"></tbody>
+                </table>
+            </div>
+        </div>
+
+    </section>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+            integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+            crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="/courses.js"></script>
+
+</body>
+</html>
